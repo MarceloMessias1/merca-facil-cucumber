@@ -30,7 +30,7 @@ public class Metodos {
 
 	public void preencho_senha(String dado, String caminho) {
 		driver.findElement(By.xpath(caminho)).sendKeys(dado);
-
+//testanto git
 	}
 	
 	public void clico_em_acessar(String valor) {
