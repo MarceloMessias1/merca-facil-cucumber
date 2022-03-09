@@ -54,6 +54,8 @@ public class Metodos {
 			String message = e.getMessage();
 			// do whatever you want with e
 			System.out.println(message);
+System.out.println("GIT");
+		
 		}
 	}
 }
